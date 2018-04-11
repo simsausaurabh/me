@@ -24,6 +24,6 @@ A progressive portfolio app using AngularJS
 
 
 Report any issue or bug here:
-* [Issue Tracker](https://github.com/simsausaurabh/Tour-of-Heroes/issues)
+* [Issue Tracker](https://github.com/simsausaurabh/me/issues)
 
 <p align="center"> Made from scratch with ❤ </p>
